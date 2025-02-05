@@ -1,0 +1,302 @@
+{
+    "courses": [
+      {
+        "id": "MATH101",
+        "subject": "Mathematics",
+        "subCategory": "Algebra",
+        "title": "Introduction to Linear Algebra",
+        "difficultyLevel": "intermediate",
+        "contentType": "course",
+        "format": "video",
+        "duration": "8 weeks",
+        "totalHours": 32,
+        "language": "English",
+        "tags": ["matrices", "vectors", "linear transformations"],
+        "prerequisites": ["basic algebra"],
+        "certification": true,
+        "rating": 4.7,
+        "enrollmentCount": 15430,
+        "lastUpdated": "2024-01-15",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": false
+        }
+      },
+      {
+        "id": "CS201",
+        "subject": "Computer Science",
+        "subCategory": "Programming",
+        "title": "Python for Data Science",
+        "difficultyLevel": "beginner",
+        "contentType": "course",
+        "format": "mixed",
+        "duration": "10 weeks",
+        "totalHours": 40,
+        "language": "English",
+        "tags": ["python", "data analysis", "matplotlib", "pandas"],
+        "prerequisites": ["none"],
+        "certification": true,
+        "rating": 4.8,
+        "enrollmentCount": 28650,
+        "lastUpdated": "2024-02-01",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "BIO305",
+        "subject": "Biology",
+        "subCategory": "Genetics",
+        "title": "Advanced Molecular Biology",
+        "difficultyLevel": "advanced",
+        "contentType": "specialization",
+        "format": "video",
+        "duration": "16 weeks",
+        "totalHours": 64,
+        "language": "English",
+        "tags": ["DNA", "RNA", "protein synthesis", "gene regulation"],
+        "prerequisites": ["basic biology", "organic chemistry"],
+        "certification": true,
+        "rating": 4.6,
+        "enrollmentCount": 5820,
+        "lastUpdated": "2024-01-20",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "HIST102",
+        "subject": "History",
+        "subCategory": "World History",
+        "title": "Ancient Civilizations",
+        "difficultyLevel": "beginner",
+        "contentType": "self-paced",
+        "format": "text",
+        "duration": "6 weeks",
+        "totalHours": 24,
+        "language": "English",
+        "tags": ["ancient egypt", "mesopotamia", "greece", "rome"],
+        "prerequisites": ["none"],
+        "certification": false,
+        "rating": 4.5,
+        "enrollmentCount": 12340,
+        "lastUpdated": "2024-01-10",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": false,
+          "hasProjectAssignments": false,
+          "hasDiscussionForums": true,
+          "hasPeerReview": false
+        }
+      },
+      {
+        "id": "ART201",
+        "subject": "Art",
+        "subCategory": "Digital Art",
+        "title": "Digital Illustration Fundamentals",
+        "difficultyLevel": "intermediate",
+        "contentType": "workshop",
+        "format": "interactive",
+        "duration": "4 weeks",
+        "totalHours": 16,
+        "language": "English",
+        "tags": ["illustration", "digital drawing", "composition"],
+        "prerequisites": ["basic drawing skills"],
+        "certification": true,
+        "rating": 4.9,
+        "enrollmentCount": 8760,
+        "lastUpdated": "2024-02-03",
+        "features": {
+          "hasQuizzes": false,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "LANG101",
+        "subject": "Languages",
+        "subCategory": "Spanish",
+        "title": "Spanish for Beginners",
+        "difficultyLevel": "beginner",
+        "contentType": "course",
+        "format": "interactive",
+        "duration": "12 weeks",
+        "totalHours": 48,
+        "language": "English",
+        "tags": ["spanish", "conversation", "grammar", "vocabulary"],
+        "prerequisites": ["none"],
+        "certification": true,
+        "rating": 4.8,
+        "enrollmentCount": 31250,
+        "lastUpdated": "2024-02-01",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": false,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "PHYS401",
+        "subject": "Physics",
+        "subCategory": "Quantum Mechanics",
+        "title": "Advanced Quantum Theory",
+        "difficultyLevel": "advanced",
+        "contentType": "specialization",
+        "format": "mixed",
+        "duration": "14 weeks",
+        "totalHours": 56,
+        "language": "English",
+        "tags": ["quantum mechanics", "wave functions", "operators", "quantum states"],
+        "prerequisites": ["calculus", "linear algebra", "basic quantum mechanics"],
+        "certification": true,
+        "rating": 4.7,
+        "enrollmentCount": 3420,
+        "lastUpdated": "2024-01-25",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": false
+        }
+      },
+      {
+        "id": "CHEM203",
+        "subject": "Chemistry",
+        "subCategory": "Organic Chemistry",
+        "title": "Organic Synthesis Laboratory",
+        "difficultyLevel": "intermediate",
+        "contentType": "workshop",
+        "format": "interactive",
+        "duration": "8 weeks",
+        "totalHours": 32,
+        "language": "English",
+        "tags": ["organic synthesis", "lab techniques", "reaction mechanisms"],
+        "prerequisites": ["general chemistry", "basic organic chemistry"],
+        "certification": true,
+        "rating": 4.6,
+        "enrollmentCount": 4580,
+        "lastUpdated": "2024-01-30",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "LIT301",
+        "subject": "Literature",
+        "subCategory": "Modern Literature",
+        "title": "Contemporary World Literature",
+        "difficultyLevel": "intermediate",
+        "contentType": "self-paced",
+        "format": "text",
+        "duration": "10 weeks",
+        "totalHours": 40,
+        "language": "English",
+        "tags": ["contemporary fiction", "literary analysis", "global literature"],
+        "prerequisites": ["basic literary analysis"],
+        "certification": true,
+        "rating": 4.5,
+        "enrollmentCount": 6890,
+        "lastUpdated": "2024-02-05",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": false,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      },
+      {
+        "id": "CS305",
+        "subject": "Computer Science",
+        "subCategory": "Machine Learning",
+        "title": "Deep Learning Applications",
+        "difficultyLevel": "advanced",
+        "contentType": "specialization",
+        "format": "mixed",
+        "duration": "12 weeks",
+        "totalHours": 48,
+        "language": "English",
+        "tags": ["neural networks", "deep learning", "tensorflow", "pytorch"],
+        "prerequisites": ["python programming", "basic machine learning", "statistics"],
+        "certification": true,
+        "rating": 4.9,
+        "enrollmentCount": 12680,
+        "lastUpdated": "2024-02-04",
+        "features": {
+          "hasQuizzes": true,
+          "hasPracticeExercises": true,
+          "hasProjectAssignments": true,
+          "hasDiscussionForums": true,
+          "hasPeerReview": true
+        }
+      }
+    ],
+    "filters": {
+      "subjects": [
+        "Mathematics",
+        "Computer Science", 
+        "Biology",
+        "History",
+        "Art",
+        "Physics",
+        "Chemistry",
+        "Literature",
+        "Languages"
+      ],
+      "difficultyLevels": [
+        "beginner",
+        "intermediate", 
+        "advanced"
+      ],
+      "contentTypes": [
+        "course",
+        "specialization",
+        "workshop",
+        "self-paced"
+      ],
+      "formats": [
+        "video",
+        "text",
+        "interactive",
+        "mixed"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Chinese"
+      ],
+      "features": [
+        "hasQuizzes",
+        "hasPracticeExercises",
+        "hasProjectAssignments",
+        "hasDiscussionForums", 
+        "hasPeerReview"
+      ],
+      "duration": {
+        "min": "1 week",
+        "max": "16 weeks"
+      }
+    }
+  }
